@@ -3,5 +3,5 @@
     "use_knn_imputer": false,
     "normalize_data": true,
     "standardize_data": false,
-    "k_best_features_to_select": 10
+    "k_best_features_to_select": -1
 }
