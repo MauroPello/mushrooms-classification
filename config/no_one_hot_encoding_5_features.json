@@ -1,6 +1,6 @@
 {
     "delete_rows_that_have_columns_with_many_nan": true,
-    "one_hot_encoding": true,
+    "one_hot_encoding": false,
     "normalize_data": false,
     "standardize_data": true,
     "k_best_features_to_select": 5
