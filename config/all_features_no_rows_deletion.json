@@ -1,6 +1,5 @@
 {
     "delete_rows_that_have_columns_with_many_nan": false,
-    "use_knn_imputer": false,
     "one_hot_encoding": true,
     "normalize_data": true,
     "standardize_data": false,

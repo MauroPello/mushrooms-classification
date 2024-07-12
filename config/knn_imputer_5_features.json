@@ -1,8 +1,0 @@
-{
-    "delete_rows_that_have_columns_with_many_nan": true,
-    "use_knn_imputer": true,
-    "one_hot_encoding": true,
-    "normalize_data": true,
-    "standardize_data": false,
-    "k_best_features_to_select": 5
-}
